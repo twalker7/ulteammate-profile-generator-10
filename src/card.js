@@ -3,13 +3,13 @@ function card(person){
 let extraField = '';
 let picture = '';
 if(person.role ==="Manager"){
-    extraField ='officer number: ' + person.officeNumber;
+    extraField ='Office Number: ' + person.officeNumber;
     picture = 'fab fa-java'
 }else if(person.role === "Engineer"){
-    extraField ='github ' + person.github;
+    extraField ='GitHub: ' + person.github;
     picture = 'fas fa-glasses';
 }else{
-    extraField ='school ' + person.schoolName;
+    extraField ='School: ' + person.schoolName;
     picture = 'fas fa-user-graduate';
 }
 
