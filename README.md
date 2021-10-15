@@ -2,8 +2,7 @@
 
 
 ## Description 
-
-This application is based in node.js and is design to provide the user with an HTML page containing details and contact information of their work team. The user inserts data into the Inquirer-power prompt at the command line. This app is a time-saver for employees who want to present a basic employee directory consisting of their teammates.
+A Node.js command-line application that takes prompted information from the user and produces an HTML webpage containing a professional team profile with the directory information of each team member. A time-saver for employees who want to produce a basic employee directory consisting of their teammates.
                 
 
 ## Table of Contents
@@ -16,11 +15,11 @@ This application is based in node.js and is design to provide the user with an H
 
 ## Installation
 
- Base technology used: Node.js, Node Packet Manager. Imported Bootstrap and Font-awesome CDN's for styling. 
+Technology: Node.js, Inquirer.js, Bootstrap 
 
 ## Usage 
 
-Start this app by Opening the command line and executing 'node index.' The User will then receive prompts. After fulfilling the prompts and opting to not add anymore employees to the team, the HTML page will be generated.
+Start this app by Opening the command line and executing 'node index.' The user will then be prompted for various information. After fulfilling the prompts and opting to not add any more employee information, the HTML page will be generated.
         
 
 
@@ -43,7 +42,7 @@ Thomas Walker
  Our tests were built using the Jest framework and consisted of object declarations. The test was designed to ensure that the respective properties for each constructor were being established. 
         
 
-## Questions 
+## Contact
 
  Thomasnwalker@yahoo.com ; github.com/twalker7
 
