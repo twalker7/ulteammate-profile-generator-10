@@ -19,7 +19,7 @@ Technology: Node.js, Inquirer.js, Bootstrap
 
 ## Usage 
 
-Start this app by Opening the command line and executing 'node index.' The user will then be prompted for various information. After fulfilling the prompts and opting to not add any more employee information, the HTML page will be generated.
+Start this app by opening the command line and executing 'node index.' The user will then be prompted for various information. After fulfilling the prompts and opting to not add any more employee information, the HTML page will be generated.
         
 
 
