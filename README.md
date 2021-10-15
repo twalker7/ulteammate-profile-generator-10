@@ -39,7 +39,7 @@ Thomas Walker
 
 
 ## Tests
- Our tests were built using the Jest framework and consisted of object declarations. The test was designed to ensure that the respective properties for each constructor were being established. 
+ No tests were used to develop the application 
         
 
 ## Contact
